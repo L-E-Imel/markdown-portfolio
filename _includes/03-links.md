@@ -1,3 +1,3 @@
-I can be found at: www.github.com/L-E-Imel
+I can be found on [github](www.github.com/L-E-Imel)
 <br>
-And on twitter at: https://twitter.com/ImmelEliza
+And on twitter [@ImmelEliza](https://twitter.com/ImmelEliza)
